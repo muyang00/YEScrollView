@@ -17,7 +17,7 @@ Pod::Spec.new do |s|
 
   s.name         = "YEScrollView"
   s.version      = "0.0.1"
-  s.summary      = "A cycle scrollView for YEScrollView."
+  s.summary      = " cycleScrollView for YEScrollView"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   s.description  = <<-DESC
-      head pic, cycleScrollView
+      cycleScrollView for YEScrollView ,  head pic, cycleScrollView
                    DESC
 
   s.homepage     = "https://github.com/muyang00/YEScrollView"
